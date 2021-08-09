@@ -1,1 +1,3 @@
-Spring e ticaret uygulaması backend kodları
+Spring Eticaret uygulaması - Angular Front End 
+BackEnd Kodları
+
